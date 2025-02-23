@@ -1,7 +1,7 @@
-  ---
-  layout: post
-  title: "my first blog"
-  date: 2025-02-23
-  ---
+---
+layout: post
+title: "my first blog"
+categories: misc
+---
 
-  Your post content goes here.
+Your post content goes here.
