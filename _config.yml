@@ -8,27 +8,11 @@ header_pages:
   - about.md
   - books.md
 
-  minima:
-  # Minima skin selection.
-  # Available skins are:
-  # classic	           Default, light color scheme.
-  # dark	             Dark variant of the classic skin.
-  # auto	             Adaptive skin based on the default classic and dark skins.
-  # solarized-light	   Light variant of solarized color scheme.
-  # solarized-dark	   Dark variant of solarized color scheme.
-  # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
-
-  # Minima date format.
-  # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #date_format: "%b-%d-%Y"
-
-  social_links:
-   - title: my GitHub
-     icon: github
-     url: "https://github.com/ZetongLiu"
-   - title: my linkedin
-     icon: linkedin
-     url: "https://www.linkedin.com/in/zetong-liu-113627215/"
+  # social_links:
+  #  - title: my GitHub
+  #    icon: github
+  #    url: "https://github.com/ZetongLiu"
+  #  - title: my linkedin
+  #    icon: linkedin
+  #    url: "https://www.linkedin.com/in/zetong-liu-113627215/"
 
