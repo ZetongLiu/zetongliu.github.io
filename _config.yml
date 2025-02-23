@@ -5,9 +5,16 @@ author:
 
 theme: minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 header_pages:
   - about.md
   - books.md
+
+minima:
+  skin: classic
 
   # social_links:
   #  - title: my GitHub
