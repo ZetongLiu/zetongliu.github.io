@@ -1,0 +1,7 @@
+title: Zetong Liu
+# description: A brief description of your site
+theme: jekyll-theme-minima
+header_pages:
+  - about.md
+  - books.md
+
