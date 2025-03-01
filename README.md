@@ -1,1 +1,1 @@
-I'm a SDE at AIP.
+I'm anything but a software developer.
