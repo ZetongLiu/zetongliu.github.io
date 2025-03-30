@@ -4,7 +4,7 @@ title: Books
 permalink: /books/
 ---
  
- This is a unordered list of books I've read so far, and the genres is heavily skewed by my eurocentric novel obessession during my college years in China as you might notice. Inspired by Patrick Collison, I mark exceptional ones in blue and above average ones in green. Due to the lost of my read record file, this list will never be complete.
+ This is a unordered list of books I've read so far, and the genres is heavily skewed by a eurocentric novel obessession during my college years. Inspired by Patrick Collison, I mark exceptional ones in blue and above average ones in green. Due to the lost of my read record file, this list will never be complete.
  - *The Prince* - Niccolo Machiavelli
  - <span style="color: blue;">*Baudolino* - Umberto Eco</span>
  - <span style="color: green;">*How to Travel with a Salmon* - Umberto Eco</span>
